@@ -206,6 +206,106 @@
                     "comments:"
                 }
 
+            },
+            "3":
+            {
+                {
+                    "original:シングルプレー"
+                    "translate:Single Play"
+                    "comments:SP"
+                },
+                {
+                    "original:このカードは使用できません"
+                    "translate:This card cannot be used"
+                    "comments:"
+                },
+                {
+                    "original:
+                    beatmania IIDX 17 SIRIUS から
+                    データを引き継ぎます"
+                    "translate:Data transfer from beatmania IIDX SiRIUS"
+                    "comments:"
+                },
+                {
+                    "original:
+                    e-AMUSEMENT PASSを使用せずに
+                    プレーします"
+                    "translate:Play without e-AMUSEMENT PASS"
+                    "comments:"
+                },
+                {
+                    "original:暗証番号を入力してください"
+                    "translate:Please enter your PIN"
+                    "comments:e-AMUSEMENT Registration"
+                },
+                {
+                    "original:
+                    異なる暗証番号が八力されました !
+                    始めからやり直してください"
+                    "translate:
+                    Different PIN was entered!
+                    Please try again"
+                    "comments: Wrong PIN on entry"
+                },
+                {
+                    "original:
+                    e-AMUSEMENT PASSを
+                    使用しません"
+                    "translate:e-AMUSEMENT PASS is not used"
+                    "comments:"
+                }
+                {
+                    "original:
+                    すべてのプレーヤーに楽しく遊んでいただくため,
+                    エントリーネーム等の入力において、
+                    以下の不適切行為を禁止いたします.
+
+                    〇倫理調に欠ける不適切な文字やことばの入力
+                    〇他のプレーヤーに対する誹謗中傷
+
+                    当社が不適切行為と判断した場合、お客様の了承を
+                    得ることなく変更させていただくことがありますので
+                    予めご了承ください.
+                    また、悪質と判断された場合、プレーデータの削除等の
+                    措置をとらせていただくことがあります."
+                    "translation:"
+                    "comments:new card registation ToS"
+                },
+                {
+                    "original:
+                    新規登録します
+                    ご希望の暗証番号を入力してください
+                    注意連続した番号(0000,1111~9999)
+                    は登録できません
+                    STARTボタンを押すと
+                    新規登録をキャンセルします"
+                    "translate:
+                    New card registation
+                    Please enter PIN you want to use.
+                    Advice: Consecutive numbers (0000,1111-9999)
+                    can't be used
+                    Press START button to
+                    cancel registration"
+                    "comments:"
+                },
+                {
+                    "original:
+                    ロデータ引き継ぎについて
+                    このゲーム機ではデータ引き紙ぎサービスをこ利用
+                    していただくことが出来ません.
+                    詳しくは,
+                    www.ea-pass.konami.jp
+                    (携帯からは am.573.jp)
+                    をご覧ください."
+                    "translate:"
+                    "comments:"
+                }
+            },
+            "4":
+            {
+                {
+                    
+                }
             }
 
         }
