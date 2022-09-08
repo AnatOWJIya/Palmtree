@@ -1,0 +1,119 @@
+{
+    "info: Translation file for mode select screen":
+    {
+        "pages":
+        {
+            "1":
+            {
+                {
+                    "original:
+                    片方のターンテーブルと7個の鍵盤を
+                    使用します
+                    beatmania IDXの基ホモードです"
+                    "translation:Play using 7 keys and turntable. Classic beatmaniaIIDX mode."
+                    "comments:"
+                },
+                {
+                    "original:現在プレーできません"
+                    "translation:Currenlly unplayable"
+                    "comments:"
+                },
+                {
+                    "original:ターンテーブルで選択、日鍵盤でモード決定"
+                    "translation: Select with turntable, confirm with keyboard"
+                    "comments:"
+                },
+                {
+                    "original:スタートボタンを押すとゲームオブションを変更でくます"
+                    "translation:Press START to change options"
+                    "comments:"
+                },
+                {
+                    "original:
+                    初めて beatmania IDX をプレー
+                    する人のための練習モード
+                    演奏の其礎を身につけることができます"
+                    "translation:
+                    Practice mode for those who play beatmania IDX for the first time
+                    Practice mode for first-time players
+                    You can learn the basics of playing!"
+                    "comments:"
+                },
+                {
+                    "original:
+                    左右のターンテーブルと 14個の鍵盤を
+                    使用します
+                    ダブルプレーが楽しめます"
+                    "translation:Play using 14 keys and both turntables. Enjoy the double play"
+                    "comments:"
+                },
+                {
+                    "original:
+                    ー定時間を貸しきってプレーできる
+                    モードです
+                    分 ~ 分間 遊ぶことができます"
+                    "translation: You can pay to play this mode. You can play for x ~ y minutes"
+                    "comments:"
+                }
+                {
+                    "original:
+                    実力の近いプレーヤーと競い合う
+                    上級者用モードです"
+                    "translation:Compete with players of similar skill"
+                    "comments:"
+                },
+                {
+                    "original:
+                    全5ステージを決められた曲順でプレー
+                    するモードです"
+                    "translation:Play 5 songs from predetermined song pool"
+                    "comments:"
+                },
+                {
+                    "original:
+                    段位認定モード
+                    あなたのプレーレベルを分析します"
+                    "translation:Dan Course Mode. Analyzes your skill"
+                    "comments:"
+                }
+            }
+            ,
+            "2":
+            {
+                
+                {
+                    "original:段位認定"
+                    "translation: CLASS"
+                    "comments: Dan Course"
+                }
+                {
+                    "original:
+                    イベントを攻略していくモード
+                    初心者から遊べます"
+                    "translation:Event mode. Available for beginners."
+                    "comments:"
+                }
+                {
+                    "original:
+                    コンボが切れると途中終了します
+                    上級者向けです
+                    X曲必ず遊ぶことができます"
+                    "translation:
+                    Play until combo break
+                    For advanced players
+                    X song guaranteed"
+                    "comments:"
+                }
+                {
+                    "original:
+                    初心者の入門用モード
+                    X曲必ず遊ぶことができます"
+                    "translation:Beginner's Play
+                    X songs guatanteed"
+                    "comments:"
+                }
+            }
+
+        }
+    }
+}
