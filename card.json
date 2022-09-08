@@ -1,0 +1,213 @@
+{
+    "info: Translation file for Log-in/e-AMUSEMENT registartion screen":
+    {
+        "pages":
+        {
+            "1":
+            {
+                {
+                    "original:ターンテーブルで選択、 鍵盤で決定"
+                    "translation:Select with Turntable, Confirm with keyboard"
+                    "comments:"
+                },
+                {
+                    "original:ダブルプレー"
+                    "translation:Double Play"
+                    "comments:"
+                },
+                {
+                    "original:開催されていません"
+                    "translation:No event this week"
+                    "comments:"
+                },
+                {
+                    "original:プレーモードを選択してください"
+                    "translation:Please select a game mode"
+                    "comments:"
+                },
+                {
+                    "original:左右のターンテーブルと14個の鍵盤を使用する上級者向けのモードです"
+                    "translation:Advanced play mode that uses both turntables and 14 keys"
+                    "comments:DP"
+                },
+                {
+                    "original:片方のターンテーブルと7個の鮭盤を使用するモードです"
+                    "translation:This mode uses one turntable and 7 keys"
+                    "comments:SP"
+                },
+                {
+                    "original:ただいま回線が混雑しています。再度お試しください"
+                    "translation:"
+                    "comments:"
+                }
+                {
+                    "original:スタートボタンを押してください"
+                    "translation:Press the START button"
+                    "comments:"
+                },
+                {
+                    "original:しばらくお待ちください"
+                    "translation:Please wait a moment"
+                    "comments:"
+                },
+                {
+                    "original:参加者募集中"
+                    "translation:"
+                    "comments:"
+                },
+                {
+                    "original:保存に失敗しました"
+                    "translation:Failed to save"
+                    "comments:"
+                }.
+                {
+                    "original:保存に成功しました"
+                    "translation:Saved successfully"
+                    "comments:"
+                },
+                {
+                    "original:データを保存しています"
+                    "translation:Data is saving"
+                    "comments:"
+                },
+                {
+                    "original:STARTボタンでSKIPします"
+                    "translation:Skip using START button"
+                    "comments:"
+                },
+                {
+                    "original:上記の内容にご了解いただけましたか ?"
+                    "translation:Do you agree with above?"
+                    "comments:"
+                },
+                {
+                    "original:確認しました"
+                    "translation:Confirmed"
+                    "comments:"
+                },
+                {
+                    "original:
+                    e-AMUSEMENT PASSを確認しています
+                    しばらくお待ちください・・・"
+                    "translation:
+                    e-AMUSEMENT PASS is being checked.
+                    Please wait"
+                    "comments:"
+                },
+                {
+                    "original:e-AMUSEMENT PASSを入れなおしてください"
+                    "translation:Please re-enter e-AMUSEMENT PASS"
+                    "comments:"
+                },
+                {
+                    "original:
+                    ネットワーク技続エラーです
+                    e-AMUSEMENT PASSを使用した
+                    プレーはできません"
+                    "translation:
+                    Network error
+                    Cannot play using e-AMUSEMENT PASS"
+                    "comments:"
+                },
+                {
+                    "original:新規のe-AMUSEMENT PASSです"
+                    "translation:New e-AMUSEMENT PASS"
+                    "comments:"
+                },
+                {
+                    "original:暗証番号が違います !"
+                    "translation:Wrong PIN!"
+                    "comments:"
+                },
+                {
+                    "original:登録が完了しました"
+                    "translation:Registastion is completed"
+                    "comments:"
+                },
+                {
+                    "original:スタートボタンでゲームを開始します"
+                    "translation:Press START to Play"
+                    "comments:"
+                },
+                {
+                    "original:スタートボタンでゲームに参加します"
+                    "translation:Press START to Join"
+                    "comments:"
+                },
+                {
+                    "original:入れてください"
+                    "translation:"
+                    "comments: I don't even fucking know where it is used"
+                },
+                {
+                    "original:お取ください"
+                    "translation:"
+                    "comments: I don't even fucking know where it is used"
+                },
+                {
+                    "original:通信中"
+                    "transtalion:Connecting(?)"
+                    "comments: not really sure if it's the best translation for it"
+                },
+                {
+                    "original:e-AMUSEMENT PASSを入れてください"
+                    "translation:Please insert your e-AMUSEMENT PASS"
+                    "comments:"
+                },
+                {
+                    "original:最終ブレーから X日経骨しますと、「beatmania IIDX 18」
+                    のプレーデータが無効になりますのでご注意ください。"
+                    "translation:"
+                    "comments:"
+                }
+            }
+            ,
+            "2":
+            {
+                
+                {
+                    "original:データを引き継ぎます"
+                    "translation:Transfering data"
+                    "comments:"
+                }
+                {
+                    "original:e-AMUSEMENT PASSを使用します"
+                    "translation:Use e-AMUSEMENT PASS"
+                    "comments:"
+                }
+                {
+                    "original:エラーが発生しました"
+                    "translation:An Error occurred"
+                    "comments:"
+                }
+                {
+                    "original:
+                    e.AMUSEMENT PASSをお持ちの方は
+                    搬入口に入れてください。お持ちで無い方は
+                    スタートボタンを押してください"
+                    "translation:
+                    If you have e-AMUSEMENT PASS please insert it.
+                    Otherwise, press the START button."
+                    "comments:"
+                },
+                {
+                    "original:スタートボタンでゲームを開始します"
+                    "translation:Press START to start the game"
+                    "comments:"
+                },
+                {
+                    "original:鍵盤を押すと詳細ページを切り替えます"
+                    "translation:Press the keyboard to change details page"
+                    "comments:"
+                },
+                {
+                    "original:暗証番号の入力に失敗しました"
+                    "translation:PIN entry failed!"
+                    "comments:"
+                }
+
+            }
+
+        }
+    }
+}
