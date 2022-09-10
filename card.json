@@ -304,7 +304,46 @@
             "4":
             {
                 {
-                    
+                    "original:
+                    ロカードナンパー(ユーザーコード)について
+                    カードナンパー(ユーザーコード)は
+                    e-AMUSEMENT PASS裏面に記載されている
+                    16桁のナンパーを指します
+                    e-AMUSEMENT PASSの破損、紛失時、
+                    もしくは新しいe-AMUSEMENT PASSにデータを
+                    引き継ぎたい場合に必要になりますので、
+                    必ずメモしておいてください"
+                    "translation:"
+                    "comments:"
+                },
+                {
+                    "original:シングルプレー"
+                    "translate:Single Play"
+                    "comments:SP"
+                },
+                {
+                    "original:この暗証番号は登録できません"
+                    "translate: This PIN can't be used"
+                    "comments:"
+                },
+                {
+                    "original:
+                    確認のため、もう一度入力してください
+                    STARTボタンを押すと
+                    新規登録をキヤンセルします"
+                    "translate:
+                    Please enter PIN again to confirm it
+                    Press START to cancel registation"
+                    "comments:"
+                },
+                {
+                    "original:
+                    ゲームが終了しました
+                    カードをお取りください"
+                    "translate:
+                    The Game is over
+                    Please, take your card"
+                    "comments:"
                 }
             }
 
