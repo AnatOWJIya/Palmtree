@@ -1,0 +1,16 @@
+{
+    "info: Translation file for VEFX info":
+    {
+        "pages":
+        {
+            "1":
+            {
+                { 
+                    "original:同時に押すと途中終了できます"
+                    "translate:Press at the same time to exit"
+                    "comments:"
+                },
+            }
+        }
+    }
+}
