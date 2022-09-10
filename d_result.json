@@ -1,0 +1,31 @@
+{
+    "info: Translation file for dan course result screen":
+    {
+        "pages":
+        {
+            "1":
+            {
+                { 
+                    "original:合格"
+                    "translate:Passed"
+                    "comments:Dan course pass"
+                },
+                {
+                    "original:不合格"
+                    "translate:Not Passed"
+                    "comments:Dan course fail"
+                },
+                {
+                    "original:段位認定"
+                    "translation:Dan course"
+                    "comments:"
+                },
+                {
+                    "original:達成率"
+                    "translation:Pass Rate"
+                    "comments:"
+                }
+            }
+        }
+    }
+}
