@@ -1,0 +1,66 @@
+{
+    "info: Translation file for TOS confirmation info":
+    {
+        "pages":
+        {
+            "1":
+            {
+                { 
+                    "original:
+                    e-AMUSEMENTサービス利用確認
+
+                    e-AMUSEMENTサービスに接続しようとしています.
+                    このサービスは有料となります.
+
+                    〇　同意の上サービスを利用する
+                    サービスボタンを押しながらテストボタンを押す
+
+                    〇　サービスを利用しない
+                    テストバホタンを押し、NETWORK OPTIONSの
+                    e-AMUSEMENTを 「OFF」 にする
+                    詳しくは取扱説明書をお読みください."
+                    "translate:
+                    e-AMUSEMENT Service Usage Confirmation
+
+                    You are trying to connect to the e-AMUSEMENT service.
+                    This service requires a fee.
+                    
+                    〇 I agree to use the service.
+                    Press the test button while pressing the service button.
+                    
+                    〇 Press the test button, then press the NETWORK OPTIONS
+                    'e-AMUSEMENT' is set to OFF
+                    Please read the instruction manual for details."
+                    "comments:"
+                },
+                {
+                    "original:
+                    e-AMUSEMENTサービス利用確認
+
+                    再確認
+                    本当によろしいですか?
+
+                    〇　はい、サービスを利用します
+                    サービスボタンを押しながらテストボタルンを押す
+
+                    〇いいえ、サービスを利用しません
+                    テストボタンを押し、NETWORK OPTIONSの
+                    e-AMUSEMENTを 「OFF」 にする"
+                    "translate:
+                    e-AMUSEMENT Service Usage Confirmation
+
+                    Reconfirmation
+                    Are you sure?
+
+                    〇 I agree to use the service.
+                    Press the test button while pressing the service button.
+                    
+                    〇 Press the test button, then press the NETWORK OPTIONS
+                    'e-AMUSEMENT' is set to OFF
+                    "
+                    "comments:"
+                }
+            }
+        }
+    }
+}
