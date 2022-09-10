@@ -1,0 +1,37 @@
+{
+    "info: Translation file for dan course select screen":
+    {
+        "pages":
+        {
+            "1":
+            {
+                { 
+                    "original:[AUTO SCRATCH] [5KEYS] [RANDOM]等の
+                    GAME OPTIONは使用できません"
+                    "translate:[X][X][X] Options can't be used"
+                    "comments:"
+                },
+                {
+                    "original:不合格"
+                    "translate:Not Passed"
+                    "comments:Dan course fail"
+                },
+                {
+                    "original:段位認定"
+                    "translation:Dan course"
+                    "comments:"
+                },
+                {
+                    "original:達成率"
+                    "translation:Pass Rate"
+                    "comments:"
+                },
+                {
+                    "original:未挑戦"
+                    "translation:Untried"
+                    "comments:"
+                }
+            }
+        }
+    }
+}
