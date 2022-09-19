@@ -1,0 +1,94 @@
+{
+    "info: Translation file for dan course select screen":
+    {
+        "pages":
+        {
+            "1":
+            {
+                { 
+                    "original:コースカテゴリー選択"
+                    "translate:Course category selection"
+                    "comments:"
+                },
+                {
+                    "original:インターネットランキング対応コース (全X曲)"
+                    "translate:Internet Ranking Match (X songs)"
+                    "comments:"
+                },
+                {
+                    "original:この筐体で選曲された上位 X 位~ Y 位"
+                    "translation:Top X ~ Y songs in this course"
+                    "comments:"
+                },
+                {
+                    "original:全国で選曲された今週の上位 X 位 ~ Y 位"
+                    "translation:This week's top X ~ Y songs selected nationwide"
+                    "comments:"
+                },
+                {
+                    "original:他人が作ったランダムオリジナルコース(全X曲)"
+                    "translation:Random original course created by others (X songs)"
+                    "comments:"
+                }
+            },
+
+            "2":
+
+            {
+                {
+                    "original:マイベストコース(全X曲)"
+                    "translate:My Best Course (X songs)"
+                    "comments:"
+                }
+            },
+            "3:"
+            {
+                {
+                    "original:ライバルのベストコースX (全Y曲)"
+                    "translate:Rivals' Best Courses X (Y tracks)"
+                    "comments:"
+                },
+                {
+                    "original:この筐体で選曲された上位 X位~Y位"
+                    "translate:Top X~Y songs selected in this course"
+                    "comments:"
+                },
+                {
+                    "original:全国で選曲された上位 X位~Y位"
+                    "translate:Top X~Y songs selected nationwide"
+                    "comments:"
+                },
+                {
+                    "店舗設足オリジナルコース (全X曲)"
+                    "translate:Original course for store set-up (X songs)"
+                    "comments:"
+                },
+                {
+                    "original:他人が作ったオリジナルコース(全X曲)"
+                    "translate:Original course created by others (X songs)"
+                    "comments:"
+                },
+                {
+                    "original:ライバルオリジナルコース X (全Y曲)"
+                    "translate:Rival Original Course X (Y songs)"
+                    "comments:"
+                },
+                {
+                    "original:ユーザーオリジナルコース(全X曲)"
+                    "translate:User original course (X songs)"
+                    "comments:"
+                },
+                {
+                    "original:コース作成者"     
+                    "translate:Course Creater"
+                    "comments:"
+                },
+                {
+                    "original:難易度を変更"
+                    "translate: Change Difficulty"
+                    "comments:"
+                }
+            }
+        }
+    }
+}
