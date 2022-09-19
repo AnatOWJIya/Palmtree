@@ -1,0 +1,20 @@
+{
+    "info: Translation file for overall settings screen":
+    {
+        "pages":
+        {
+            "1":
+            {
+                {
+                    "original:
+                    STARTボタンを押しながら
+                    ターンテーブルをまわすと
+                    上下させることができます
+                    "
+                    "translation:Hold down the START button and turn the turntable to move it up and down."
+                    "comments:"
+                }
+            }
+        }
+    }
+}
