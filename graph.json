@@ -1,0 +1,83 @@
+{
+    "info: Translation file for graph screen":
+    {
+        "pages":
+        {
+            "1":
+            {
+                {
+                    "original:リーグライブル"
+                    "translation:league-rival"
+                    "comments:"
+                },
+
+                {
+                    "original:スコアデータがありません"
+                    "translation:No score data"
+                    "comments:"
+                },
+
+                {
+                    "original:ライブル"
+                    "translation:rival"
+                    "comments:"
+                },
+                {
+                    "original:ライバル平均"
+                    "transtalion:RIval's AVG"
+                    "comments:"
+                },
+                {
+                    "original:ライバルトップ"
+                    "translation:Rival's Top"
+                    "comments:"
+                },
+                {
+                    "original:ランダムプレイアー"
+                    "translation:Random player"
+                    "comments:"
+                },
+                {
+                    "original:サーバーに遺信中"
+                    "translation:"
+                    "comments:"
+                },
+                {
+                    "original:通信に失敗しました"
+                    "translation:Communication failure."
+                    "comments:"
+                },
+                {
+                    "original:全国平均"
+                    "translation:national average"
+                    "comments:"
+                },
+                {
+                    "original:自己ベスト"
+                    "transtalion:Personal best"
+                    "comments:"
+                },
+                {
+                    "original:同段位平均"
+                    "translation:Average of the same segment"
+                    "comments:"
+                },
+                {
+                    "original:県別平均"
+                    "translation:Prefectural Average"
+                    "comments:"
+                },
+                {
+                    "original:筐体内平均"
+                    "translation:average in the housing"
+                    "comments:"
+                },
+                {
+                    "original:現在のスコア"
+                    "translation:Current Score"
+                    "comments:"
+                }
+            }
+        }
+    }
+}
