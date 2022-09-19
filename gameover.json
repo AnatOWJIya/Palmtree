@@ -1,0 +1,22 @@
+{
+    "info: Translation file for gameover screen":
+    {
+        "pages":
+        {
+            "1":
+            {
+                {
+                    "original:プレーしだご感思等,ございましたら"
+                    "translation:If you have any comments or impressions of the game, please let us know."
+                    "comments:"
+                },
+                {
+                    "original:アンケート用紙にご記入よろしくお願い上げます"
+                    "translation:Please fill out the survey form."
+                    "comments:"
+                }
+            },
+        }
+    }
+}
+
