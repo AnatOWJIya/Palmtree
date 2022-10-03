@@ -1,10 +1,7 @@
 {
-    "info: Translation file for overall settings screen":
-    {
-        "pages":
-        {
-            "1":
-            {
+    "info: Translation file for overall settings screen": {
+        "pages": {
+            "1": {
                 {
                     "original:
                     STARTボタンを押しながら
