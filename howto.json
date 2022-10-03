@@ -1,0 +1,128 @@
+{
+    "info: Translation file for demoplay tutorial screen": {
+        "pages": {
+            "1": {
+                {
+                    "original:しばらくお待ちください"
+                    "translation:Please wait a moment"
+                    "comments:"
+                },
+                {
+                    "original:
+                    左右のゲージに落ちてくる音符が
+                    赤い線に来た所でプレーします"
+                    "translation:The notes falling on the left and right gauges are played when they come to the red line."
+                    "comments:"
+                },
+                {
+                    "original:
+                    タイミングが合っていればいるほど
+                    高得点となります"
+                    "translation:The better the timing, the higher the score."
+                    "comments:"
+                },
+                {
+                    "original:
+                    白い音付の時は白い鍵盤
+                    青い音付の時は黒い鍵盤を
+                    叩きます"
+                    "transtalion: 
+                    To play white note, tap the white keyboard
+                    To play blue note, tap the black keyboard"
+                    "comments:"
+                },
+                {
+                    "original:
+                    赤い音符の時は
+                    ターンテーブルを操作します"
+                    "translation:To play red note, turn the turntable"
+                    "comments:"
+                },
+                {
+                    "original:
+                    ターンテーブルを
+                    左右どちらかがの方向に
+                    同してください"
+                    "translation:Turn the turntable to the left or right"
+                    "comments:"
+                },
+                {
+                    "original:
+                    プレーするタイミングが
+                    合っていると
+                    下のグルーブゲージが
+                    上がっていきます"
+                    "translation:
+                    When the timing of play is right
+                    The Groove gauge will go up""comments:"
+                },
+                {
+                    "original:
+                    グルーブゲージが
+                    赤に届いている状態で
+                    曲を終了すると
+                    ステージクリアです"
+                    "translation:
+                    The stage is cleared when the song ends with the groove gauge reaching red"
+                },
+                {
+                    "original:
+                    長い音符の時は
+                    最初の音符が赤い線に来たときから
+                    ボタンを押しっばなしにして
+                    最後の音付が赤い線に到達したら
+                    ボタンを離します"
+                    "translation:
+                    For long notes, press and hold the button from the time the first note reaches the red line.
+                    When the last note reaches the red line, release the button."
+                    "comments:"
+                },
+                {
+                    "original:
+                    最後の音符でボタンを離さなかったり
+                    最後の音符よりも手前でボタンを押してしまうと
+                    ミスになります。"
+                    "translate:
+                    Or not releasing the button on the last note.
+                    If you press the button before the last note It will be a mistake."
+                    "comments:"
+                },
+                {
+                    "original:長い音符の時はターンテーブルを回し続けてください"
+                    "translate:Keep turning the turntable for longer notes."
+                    "comments:"
+                },
+                {
+                    "original:
+                    最後の音侍が来たら
+                    ターンテーブルを素早く逆に回してください"
+                    "translate:
+                    When the last sound comes
+                    Turn the turntable quickly in reverse"
+                    "comments:"
+                },
+                {
+                    "original:
+                    回し続ける方向は
+                    どちらの方向でも構いません"
+                    "translate:
+                    Either direction to keep turning is
+                    is fine.
+                    "
+                    "comments:"
+                },
+                {
+                    "original:
+                    最後の音符を過ぎてもターンテーブルを回し続けたり
+                    終りの音符が来た時に逆方向の回転をしなかった場合は
+                    ミスになります"
+                    "translate:
+                    If you continue to turn the turntable past the last note, or if you do not turn the turntable in the opposite direction when the last note arrives
+                    If the turntable is not rotated in the opposite direction when the last note is reached
+                    a mistake will be made."
+                    "comments:"
+                }
+            }
+        }
+    }
+}
